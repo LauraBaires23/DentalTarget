@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "dentaltarget",
+  "compatibility_date": "2026-06-13",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "Dental Target"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
